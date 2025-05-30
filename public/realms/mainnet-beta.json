@@ -3695,5 +3695,18 @@
     "ogImage": "/realms/PibbleDAO/logo.png",
     "website": "https://pibble.xyz",
     "twitter": "@PibbleSolana"
+  }, 
+    {
+    "symbol": "NEWS",
+    "displayName": "NEWS Network",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "realmId": "AZX7bRmy1Q9zXVedKhes3jLk18rBBE4o4G2KaoMkJXho",
+    "bannerImage": "/realms/NEWS%20Network/photo_2025-05-19_23-12-27.jpg",
+    "ogImage": "https://github.com/tricerat0x/governance-ui/blob/main/public/realms/NEWS%20Network/photo_2025-05-19_23-12-30.jpg",
+    "website": "https://hyperstition.co",
+    "keywords": "SocialFi, Solana, Memecoins",
+    "twitter": "@HyperstitionHQ",
+    "discord": "",
+    "shortDescription": "The community hub for the NEWS Network.",
   }
   ]
